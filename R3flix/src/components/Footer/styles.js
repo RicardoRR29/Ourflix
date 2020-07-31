@@ -8,10 +8,10 @@ export const FooterBase = styled.footer`
   padding-left: 16px;
   padding-right: 16px;
   padding-top: 20px;
-  padding-bottom: 5px;
+  padding-bottom: 20px;
   color: var(--white);
   text-align: center;
   @media (max-width: 800px) {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 `;
